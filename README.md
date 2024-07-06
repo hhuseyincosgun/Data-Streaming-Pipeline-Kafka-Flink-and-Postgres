@@ -1,2 +1,2 @@
-# hhuseyincosgun-Data-Streaming-Pipeline-Kafka-Flink-and-Postgres
-# hhuseyincosgun-Data-Streaming-Pipeline-Kafka-Flink-and-Postgres
+# Data Streaming Pipeline (Kafka, Flink and Postgres)
+
